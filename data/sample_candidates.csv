@@ -1,0 +1,4 @@
+enrollee_id,city_development_index,relevent_experience,enrolled_university,education_level,major_discipline,experience,company_size,company_type,last_new_job,training_hours
+100001,0.92,Has relevent experience,no_enrollment,Masters,STEM,8,100-500,Pvt Ltd,1,60
+100002,0.68,No relevent experience,Full time course,Graduate,STEM,2,<10,Early Stage Startup,never,120
+100003,0.80,Has relevent experience,Part time course,Graduate,Business Degree,5,50-99,Funded Startup,2,35

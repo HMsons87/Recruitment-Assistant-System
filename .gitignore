@@ -1,0 +1,22 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Environment Variables / Secrets
+.env
+models/
+outputs/
+data/processed/cleaned_candidates.csv
+# OS generated files
+.DS_Store
+Thumbs.db
