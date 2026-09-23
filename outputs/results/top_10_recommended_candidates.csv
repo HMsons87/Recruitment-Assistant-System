@@ -1,0 +1,11 @@
+Rank,enrollee_id,education_level,experience,company_type,training_hours,city_development_index,Job_Change_Probability,Job_Change_Percentage
+1,31227,Graduate,4,Pvt Ltd,298,0.624,0.9264338,79.06
+2,6838,Masters,7,Pvt Ltd,284,0.624,0.9248641,76.47
+3,5845,Graduate,<1,Public Sector,102,0.624,0.9195997,82.59
+4,27436,Masters,1,,126,0.624,0.90459275,77.86
+5,19759,Graduate,1,,174,0.624,0.9033306,80.92
+6,18454,Graduate,1,,50,0.527,0.9021953,78.13
+7,5165,Masters,3,Pvt Ltd,2,0.624,0.90192044,74.72
+8,6539,Graduate,1,Pvt Ltd,142,0.624,0.9019048,79.65
+9,13527,Graduate,2,,48,0.92,0.9008463,73.13
+10,10515,Graduate,3,Pvt Ltd,7,0.624,0.9006589,83.6

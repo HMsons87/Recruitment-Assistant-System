@@ -1,0 +1,31 @@
+Feature,Importance
+city_development_index,0.26246030818963817
+is_low_cdi,0.16562589463132166
+is_company_missing,0.12249792702020924
+is_company_type_missing,0.08107603846169563
+cdi_x_experience,0.0786942947217294
+education_level,0.04074168596342053
+company_size,0.034753699568158984
+experience_years,0.02912560283327411
+experience_job_ratio,0.02691455413222132
+training_intensity,0.026244743220632263
+training_hours,0.022110151464029507
+training_hours_log,0.021453821772026697
+last_new_job,0.017897197362977502
+enrolled_university_Full time course,0.01707718007983574
+relevent_experience_No relevent experience,0.012073986587612611
+enrolled_university_no_enrollment,0.011720429558027788
+relevent_experience_Has relevent experience,0.011451136622030126
+company_type_Pvt Ltd,0.004749766105836618
+company_type_Public Sector,0.0034743466328232167
+company_type_Funded Startup,0.002056535914091747
+major_discipline_STEM,0.002016151956755176
+enrolled_university_Part time course,0.0015833656713004358
+company_type_Early Stage Startup,0.0010603134162450528
+major_discipline_Humanities,0.0007639585837567556
+company_type_NGO,0.0006559293911211368
+major_discipline_Business Degree,0.0005494698327240384
+major_discipline_Other,0.0003856699042969087
+major_discipline_Arts,0.0002821767131697235
+major_discipline_No Major,0.00025594455291448983
+company_type_Other,0.0002477191361234574

@@ -1,0 +1,15 @@
+{
+    "best_model": "Random Forest",
+    "selection_metric": "F1 Score",
+    "optimal_threshold": 0.59,
+    "target_definition": {
+        "0": "Not looking for a job change",
+        "1": "Looking for a job change"
+    },
+    "excluded_from_model": [
+        "enrollee_id",
+        "city",
+        "gender"
+    ],
+    "random_state": 42
+}
